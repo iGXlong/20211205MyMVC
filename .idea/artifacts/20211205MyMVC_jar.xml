@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="20211205MyMVC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/20211205MyMVC_jar</output-path>
+    <root id="archive" name="20211205MyMVC.jar">
+      <element id="module-output" name="20211205MyMVC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
